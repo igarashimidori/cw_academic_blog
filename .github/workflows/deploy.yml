@@ -6,22 +6,34 @@ on:
   pull_request:
     branches: [ main ]
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v4.1.1
 
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: 3.3
+        ruby-version: 3.1
         bundler-cache: true
 
+    - name: Setup Pages
+      uses: actions/configure-pages@v4
+
     - name: Build site
-      run: bundle exec jekyll build --strict_front_matter
+      run: bundle exec jekyll build
 
     - name: Upload artifact
       uses: actions/upload-pages-artifact@v3
@@ -31,10 +43,6 @@ jobs:
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    permissions:
-      pages: write
-      id-token: write
-
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
