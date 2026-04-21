@@ -14,7 +14,11 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    width: 200px;
+    min-width: 200px;
+    flex-shrink: 0
+    min-width: 200px;
+    flex-shrink: 0;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
