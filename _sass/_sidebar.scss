@@ -14,9 +14,9 @@
   margin-bottom: 1em;
 
   @include breakpoint($large) {
-    width: 200px;
-    min-width: 200px;
-    flex-shrink: 0;
+    width: 15.2542372881%;
+    float: left;
+    margin-right: 1.6949152542%;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
