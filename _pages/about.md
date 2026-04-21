@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Gaole Dai (David) - Homepage"  
-excerpt: "Ph.D student in NERC at Peking University. Research focus on AI for Life Science & NeuroAI."
+title: "Wen Chu - Homepage"  
+excerpt: "Ph.D student at Nanjing University. Research focus on RS and Atmospheric Sciences."
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ header:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is <span class="accent-text">Gao Le Dai</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">. I got my Bachelor's degree in Biology from **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
+My name is <span class="accent-text">Wen Chu</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">. I got my Bachelor's degree in Biology from **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
 
 <div class="quote-accent">
 My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
