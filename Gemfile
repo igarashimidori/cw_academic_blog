@@ -13,4 +13,5 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+# `wdm` is optional file-watch acceleration on old Windows Ruby versions.
+# It fails to compile on newer Ruby (e.g. 3.3), so keep it disabled.

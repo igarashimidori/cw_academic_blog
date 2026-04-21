@@ -16,8 +16,6 @@
   @include breakpoint($large) {
     width: 200px;
     min-width: 200px;
-    flex-shrink: 0
-    min-width: 200px;
     flex-shrink: 0;
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
