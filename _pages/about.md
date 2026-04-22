@@ -93,8 +93,12 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
-- *2022.09 - Present*: &nbsp;PhD Candidate in Computer Science, Peking University<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">.
-- *2018.09 - 2022.06*: &nbsp;Bachelor of Science in Biology, <span class="primary-gradient-text">with Distinction</span>, University of Toronto<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">.
+- *2022.09 - 2025.06*: &nbsp;Master in Geomatics Engineering, Ocean University of China<img src='images/ouc.png' style="height:1em; vertical-align:middle;">.
+- *2017.09 - 2021.06*: &nbsp;Bachelor in Geographic Information Science, Anhui Jianzhu University<img src='images/ahjzu.png' style="height:1em; vertical-align:middle;">.
+
+<span class='anchor' id='-educations'></span>
+# 👩‍🔬 Work Experience
+- *2025.09 - Present*: &nbsp;Research Assistant, Westlake University<img src='images/westlake.png' style="height:1em; vertical-align:middle;">.
 
 <span class='anchor' id='-publications'></span>
 # 📃 Publications
@@ -102,34 +106,34 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <div id="publications-wrapper">
   <div id="filter-container"></div>
   
-  <div class='paper-box floating-card' data-tags="First/Co-First Author, Representation Learning, NeuroAI, CCF-A">
+  <div class='paper-box floating-card' data-tags="First/Co-First Author, Aerosol, Radiation Transfer, SBDART, Slant Visual Range, Spaceborne Lidar">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">ICLR 2026 Poster</div>
-      <img src='images/spikegen.png' alt="SpikeGen Overview" width="100%">
+      <div class="badge pulse-accent">Retrieval Algorithm</div>
+      <img src='images/SVR.png' alt="SVR Retrieval Algorithm Overview" width="100%">
     </div>
     <div class='paper-box-text'>
-      <h3>SpikeGen: Decoupled “Rods and Cones” Visual Representation Processing with Latent Generative Framework</h3>
-      <div class="authors"><span class="primary-gradient-text">Gaole Dai</span>⭐️, Menghang Dong⭐️, Rongyu Zhang⭐️, Ruichuan An, Shanghang Zhang📧, Tiejun Huang📧</div>
-      <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
+      <h3>Slant Visual Range Retrieval and Analysis With Multisource Satellite Observations and SBDART Model</h3>
+      <div class="authors"><span class="primary-gradient-text">Wen Chu</span>⭐️, Guangyao Dai📧, Wenrui Long, Chao Ren, Yufeng Wang, Fanqian Meng, Kangwen Sun, Shuangcheng Yang, Songhua Wu</div>
+      <div class="venue">IEEE Transactions on Geoscience and Remote Sensing (2026), JCR-Q1, IF=8.6</div>
       <div class="links">
-        <a href="https://openreview.net/pdf/16538e2435f34c57dec3047289b0111c358eae62.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-        <a href="https://github.com/daviddaiiiii/SpikeGen" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+        <a href="https://ieeexplore.ieee.org/document/11478510" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+       <!-- <a href=" " class="btn-accent"><i class="fab fa-github"></i> Code</a> -->
       </div>
     </div>
   </div>
   
-  <div class='paper-box floating-card' data-tags="Robotics, NeuroAI, CCF-A">
+  <div class='paper-box floating-card' data-tags="Aerosol, Radiation Transfer, SBDART, Climatic Effect">
     <div class='paper-box-image'>
-      <div class="badge pulse-accent">ICLR 2026 Poster</div>
-      <img src='images/spikepingpong.png' alt="SpikePingpong Overview" width="100%">
+      <div class="badge pulse-accent">Data Analysis</div>
+      <img src='images/acp-26-3881-2026.png' alt="ACP-26-3881-2026 Overview" width="100%">
     </div>
     <div class='paper-box-text'>
-      <h3>Spike Vision-based Fast-Slow Pingpong Robot System</h3>
-      <div class="authors">Hao Wang⭐️, Chengkai Hou⭐️, Xianglong Li⭐️, Yankai Fu, Chenxuan Li, Ning Chen, <span class="primary-gradient-text">Gaole Dai</span>, Jiaming Liu, Tiejun Huang, Shanghang Zhang📧</div>
-      <div class="venue">The Fourteenth International Conference on Learning Representations (ICLR 2026)</div>
+      <h3>Assessment and prediction of dust emissions, deposition and radiation forcing in Central Asia</h3>
+      <div class="authors">Ying Gan⭐️, Zhe Zhang📧, <span class="primary-gradient-text">Wen Chu</span>, Jianli Ding, Yuxin Ren</div>
+      <div class="venue">Atmospheric Chemistry and Physics (2026), JCR-Q1, IF=5.8</div>
       <div class="links">
-        <a href="https://openreview.net/forum?id=d08yOXs1Dl" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
-        <a href="https://github.com/PKUHaoWang/SpikePingpong" class="btn-accent"><i class="fab fa-github"></i> Code</a>
+        <a href="https://acp.copernicus.org/articles/26/3881/2026/" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+        <!-- <a href="https://github.com/PKUHaoWang/SpikePingpong" class="btn-accent"><i class="fab fa-github"></i> Code</a>  -->
       </div>
     </div>
   </div>
