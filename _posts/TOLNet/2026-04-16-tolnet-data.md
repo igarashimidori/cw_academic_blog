@@ -1,0 +1,29 @@
+---
+layout: post
+title: "TOLNet Data"
+date: 2026-04-16
+categories: research
+tags: ["TOLNet", "Lidar", "Research Data"]
+excerpt: "Introduction to TOLNet - Tropospheric Ozone Lidar Network data and tools"
+---
+
+## 1.Background
+[Tropospheric Ozone Lidar Network (TOLNet)](https://tolnet.larc.nasa.gov/)
+
+
+
+
+
+## 2.Lidars
+![TOLNet Location]({{ site.baseurl }}/images/tolnet-location.png)
+
+
+
+## 4.Tools
+[Python utilities for reading and plotting TOLNet data](https://github.com/barronh/pytolnet?tab=readme-ov-file)
+
+
+
+## Reference
+- [TOLNet - Tropospheric Ozone Lidar Network](https://tolnet.larc.nasa.gov/)
+- [An Introduction to the Tropospheric Ozone Lidar Network](https://www.earthdata.nasa.gov/learn/gis/storymaps/introduction-tropospheric-ozone-lidar-network)

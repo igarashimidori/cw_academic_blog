@@ -21,31 +21,31 @@ header:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-My name is <span class="accent-text">Wen Chu</span> (you can call me David or, perhaps, DVD). I'm currently a PhD student at the <a href="https://idm.pku.edu.cn/" class="link-accent">National Engineering Research Center of Visual Technology (NERC)</a> in **Peking University**<img src='images/pkulogo.png' style="height:1em; vertical-align:middle;">. I got my Bachelor's degree in Biology from **University of Toronto**<img src='images/utlogo.png' style="height:1em; vertical-align:middle;">. My supervisors are Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>.
+My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I'm currently a PhD student at the <a href="https://nh.nju.edu.cn/index.htm" class="link-accent">Nanjing-Helsinki Institute</a> in **Nanjing University**<img src='images/NJU.jpg' style="height:1em; vertical-align:middle;"><img src='images/helsinki.png' style="height:1em; vertical-align:middle;">.  I got my Master’s degree in Geomatics Engineering from Ocean University of China <img src='images/ouc.png' style="height:1em; vertical-align:middle;">. My supervisors is Associate Professor <a href="https://nh.nju.edu.cn/info/1051/5821.htm" class="link-accent">Wenjie Wang</a>.
 
 <div class="quote-accent">
-My research focuses on <span class="accent-text">AI for Life Science & NeuroAI</span>: 
+  My research bridges <span class="accent-text">Remote Sensing & Climate Change</span>: 
   <ul>
-    <li>Using powerful <span class="primary-gradient-text">AI tools</span>⚙️ to solve complex scientific problems.</li>
-    <li>Using unique <span class="primary-gradient-text">scientific data</span>🦠 to explore irregular model dynamic</li>
+    <li>Utilizing active and passive <span class="primary-gradient-text">satellite remote sensing</span> 🛰️ to explore the optical and radiative effects of atmospheric aerosols.</li>
+    <li>Investigating the transport, climate, and health impacts of <span class="primary-gradient-text">ozone and fine particulate matter</span> during extreme climate events for my Ph.D. research.</li>
   </ul>
 </div>
 
-Feel free to reach out if you'd like to discuss research or explore potential collaboration!
+✨Feel free to reach out if you'd like to discuss research or explore potential collaboration!✨
 
 <div class="highlight-blocks">
   <div class="highlight-block floating-card">
     <h3><i class="fas fa-microscope"></i> Interdiscipline Researcher</h3>
     <ul>
       <li>My <span class="primary-gradient-text">Technical Preference</span>: 
-        Representation Learning & Phenotypical Research
+        Satellite Remote Sensing,
+        Atmospheric Lidar Detection,
+        Atmospheric Modeling
+      </li>
+      <li>Actively expanding my skillset into <span class="primary-gradient-text">AI4S</span>.
       </li>
       <li>Published as <span class="primary-gradient-text">First Author</span> in: 
-        Nature Methods<img src='images/nmlogo.png' style="height:1em; vertical-align:middle;">,
-        Nature Compuational Science<img src='images/ncslogo.png' style="height:1em; vertical-align:middle;"> ,
-        ICLR<img src='images/iclrlogo.png' style="height:1em; vertical-align:middle;"> ,
-        NeurIPS<img src='images/neuripslogo.png' style="height:1em; vertical-align:middle;">,
-        and ICML<img src='images/icmllogo.png' style="height:1em; vertical-align:middle;"> 
+        IEEE TGRS<img src='images/ieee-logo.webp' style="height:1em; vertical-align:middle;">.
       </li>
     </ul>
   </div>
@@ -84,14 +84,13 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
-- *2026.04*: &nbsp;✅ Received the  <span class="accent-text"> Ph.D. admission offer</span>! I will joinNanjing University to pursue my Ph.D. in Atmospheric Science.
+- *2026.04*: &nbsp;✅ Received the  <span class="accent-text"> Ph.D. admission offer</span>! I will join Nanjing University to pursue my Ph.D. in Atmospheric Science.
 - *2026.04*: &nbsp;🎉 1 papers (1xfirst) is accepted by <span class="accent-text">IEEE Transactions on Geoscience and Remote Sensing</span>. 
 - *2026.02*: &nbsp;🎉 1 papers (1xcontribute) is accepted by <span class="accent-text">Atmospheric Chemistry and Physics</span>. 
 - *2025.09*: &nbsp;💼 Started working as a <span class="accent-text">Research Assistant</span> at the LACCI lab, Westlake University.
 - *2025.06*: &nbsp;🎓 Successfully completed <span class="accent-text">my Master's studies</span> and graduated from Ocean University of China.
 
 <!--- *2025.10*: &nbsp;🎤 Invited talk in The 2nd AI for Science PhD Seminar hold by <span class="accent-text">The School of AI for Science, Peking University</span>. See you in Shenzhen🇨🇳! -->
-
 
 <span class='anchor' id='-educations'></span>
 # 🏫 Educations
@@ -199,14 +198,32 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 <span class='anchor' id='-interests'></span>
 # 😊 Interests
 <div class="blog-grid">
-  <div class="blog-card">
+
+<div class="blog-card">
     <div class="blog-card-image">
-      <div class="blog-badge">My Favorite Anime Studio</div>
-      <img src="images/kyoani.png" alt="kyoani">
+      <div class="blog-badge">My Favorite Anime</div>
+      <img src="images/haikyu.png" alt="haikyu">
     </div>
     <div class="blog-card-content">
-      <div class="blog-title">Kyoto Animation</div>
-      <div class="blog-description">K-On! makes me smile and Clannad makes me cry, KyoAni makes me bipolar.</div>
+      <div class="blog-title">Haikyu!! 🏐</div>
+      <div class="blog-description">I've rewatched it countless times. Every time I watch it, I draw immense inspiration and courage from their pure passion and teamwork.</div>
+      <div class="blog-links">
+        <a href="https://haikyu.jp/" class="blog-link">
+          <i class="fas fa-globe"></i> Link
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+<div class="blog-card">
+    <div class="blog-card-image">
+      <div class="blog-badge">Favorite Studios</div>
+      <img src="images/kyoani.png" alt="kyoani_key">
+    </div>
+    <div class="blog-card-content">
+      <div class="blog-title">Kyoto Animation & Key 🌸</div>
+      <div class="blog-description">Masterpieces like K-On!, CLANNAD, AIR, Kanon, and Sound! Euphonium hold a special place in my heart. They never fail to deeply touch my soul.</div>
       <div class="blog-links">
         <a href="https://www.kyotoanimation.co.jp/en/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -215,53 +232,39 @@ Feel free to reach out if you'd like to discuss research or explore potential co
     </div>
   </div>
 
-  <div class="blog-card">
+<div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">My Favorite Game</div>
-      <img src="images/pokemon.png" alt="pokemon">
+      <img src="images/lol.png" alt="league_of_legends">
     </div>
     <div class="blog-card-content">
-      <div class="blog-title">Pokemon Diamond & Peral & Platinum</div>
-      <div class="blog-description">Childhood Memory😭.</div>
+      <div class="blog-title">League of Legends 🎮</div>
+      <div class="blog-description">A favorite since my middle school days! I am absolutely fascinated by both its engaging gameplay and the rich, expansive lore of the Runeterra universe.</div>
       <div class="blog-links">
-        <a href="https://www.pokemon.com/us/pokemon-video-games" class="blog-link">
+        <a href="https://www.leagueoflegends.com/" class="blog-link">
           <i class="fas fa-globe"></i> Link
         </a>
       </div>
     </div>
   </div>
 
-  <div class="blog-card">
+<div class="blog-card">
     <div class="blog-card-image">
-      <div class="blog-badge">My Favorite Car Brand</div>
-      <img src="images/benz.png" alt="benz">
+      <div class="blog-badge">My Favorite J-POP Duo</div>
+      <img src="images/creepynuts.png" alt="creepy_nuts">
     </div>
     <div class="blog-card-content">
-      <div class="blog-title">Mercedes Benz</div>
-      <div class="blog-description">My first car is a Mercedes Benz C43 AMG. I've done lots of mods on it and spent many nights with it. It was a great memory.</div>
+      <div class="blog-title">Creepy Nuts 🎵</div>
+      <div class="blog-description">R-Shitei and DJ Matsunaga's life attitude resonates with me, and their music gives me so much power. Attending their Asia Tour in Shanghai (Oct 2025) was an absolute blast and totally unforgettable!</div>
       <div class="blog-links">
-        <a href="https://www.instagram.com/dvd4to?igsh=OXlsZnE2bnZhcWNu" class="blog-link">
-          <i class="fas fa-globe"></i> Instagram
-        </a>
-      </div>
-    </div>
-  </div>
-
-  <div class="blog-card">
-    <div class="blog-card-image">
-      <div class="blog-badge">My Favorite Artist</div>
-      <img src="images/macmiller.png" alt="macmiller">
-    </div>
-    <div class="blog-card-content">
-      <div class="blog-title">Mac Miller</div>
-      <div class="blog-description">Honestly, it's hard to decide. I have multiple "favorites" for each genre. But the first one that pops into my mind is Mac Miller (R.I.P🕯️).</div>
-      <div class="blog-links">
-        <a href="https://www.macmillerswebsite.com/" class="blog-link">
+        <a href="https://creepynuts.com/" class="blog-link">
           <i class="fas fa-globe"></i> Link
         </a>
       </div>
     </div>
   </div>
+
+
 </div>
 
 <span class='anchor' id='-bond'></span>
@@ -315,7 +318,7 @@ Feel free to reach out if you'd like to discuss research or explore potential co
 </div>
 
 <!-- <div style="text-align: center;"> -->
-<div style="width: 20%; position:relative; left:40%">
+<div style="width: min(420px, 90vw); margin: 0 auto;">
   <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffb9b9&w=a&t=tt&d=6ZGI9ZcsWLQcS6TzQVHKhk54noO_hCDLaXL0vTe2Id4&co=ffffff&ct=ffa8a8'></script>
     <!-- 地图小部件代码结束 -->
 </div>
