@@ -154,29 +154,44 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 # 🎤 Academic Conferences & Activities
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Hangzhou, China🇨🇳</div>
-    <img src='images/ai4sseminar.png' alt="ai4sseminar" width="100%">
+    <div class="badge pulse-accent">Qingdao, China🇨🇳</div>
+    <img src='images/3DWind_Symposium.png' alt="ai4sseminar" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>The 2nd AI for Science PhD Seminar</h3>
-    <div class="venue">The School of AI for Science, Peking University Shenzhen Graduate School</div>
+    <h3>Symposium on 3D Wind Field Detection and Application Technology of the Third-Generation Polar-Orbiting Meteorological Satellites (2024.06)</h3>
+
+    <div class="venue">Assisted my research group in organizing the symposium, responsible for conference logistics and on-site coordination.</div>
     <div class="links">
-      <a href="https://ai4s.pkusz.edu.cn/" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
+      <a href="https://www.opticsjournal.net/meeting/same2024.cshtml" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
     </div>
   </div>
 </div>
 
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">Dagstuhl, Germany🇩🇪</div>
-    <img src='images/dagstuhl.png' alt="Dagstuhl" width="100%">
+    <div class="badge pulse-accent">Hangzhou, China🇨🇳</div>
+    <img src='images/SAME2024.png' alt="ai4sseminar" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>Dagstuhl Seminar: The Emerging Issues in Bioimaging AI Publications and Research</h3>
-    <div class="venue">Schloss Dagstuhl, Leibniz Institute for Analytical Sciences (ISAS)</div>
+    <h3>SAME 2024 (2024.04)</h3>
+    <div class="venue">The 2nd Conference on Space, Atmosphere, Marine and Environmental Optics. Honored to deliver my first conference oral presentation here 🎤.</div>
     <div class="links">
-      <a href="https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24042" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
-      <a href="https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue01/24042/DagRep.14.1.90/DagRep.14.1.90.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a>
+      <a href="https://www.opticsjournal.net/meeting/same2024.cshtml" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
+    </div>
+  </div>
+</div>
+
+<div class='paper-box floating-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">Shanghai, China🇨🇳</div>
+    <img src='images/SAME2023.png' alt="Dagstuhl" width="100%">
+  </div>
+  <div class='paper-box-text'>
+    <h3>SAME 2023 (2023.04)</h3>
+    <div class="venue">The 1st Conference on Space, Atmosphere, Marine and Environmental Optics.</div>
+    <div class="links">
+      <a href="https://atom.opticsjournal.net/meeting/same2023.cshtml" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
+      <!--  <a href="https://drops.dagstuhl.de/storage/04dagstuhl-reports/volume14/issue01/24042/DagRep.14.1.90/DagRep.14.1.90.pdf" class="btn-accent"><i class="fas fa-file-alt"></i> Paper</a> -->
     </div>
   </div>
 </div>
@@ -219,7 +234,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 <div class="blog-card">
     <div class="blog-card-image">
       <div class="blog-badge">Favorite Studios</div>
-      <img src="images/kyoani.png" alt="kyoani_key">
+      <img src="images/key.png" alt="kyoani_key">
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Kyoto Animation & Key 🌸</div>
@@ -264,9 +279,10 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
   </div>
 
-
 </div>
 
+
+{% comment %}
 <span class='anchor' id='-bond'></span>
 # 🔗 Bond
 <div class='paper-box floating-card'>
@@ -316,6 +332,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
   </div>
 </div>
+{% endcomment %}
 
 <!-- <div style="text-align: center;"> -->
 <div style="width: min(420px, 90vw); margin: 0 auto;">
