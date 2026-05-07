@@ -170,7 +170,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Hangzhou, China🇨🇳</div>
-    <img src='images/SAME2024.jpg' alt="ai4sseminar" width="100%">
+    <img src='images/SAME2024.JPG' alt="ai4sseminar" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>SAME 2024 (2024.04)</h3>
@@ -184,7 +184,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Shanghai, China🇨🇳</div>
-    <img src='images/SAME2023.jpg' alt="Dagstuhl" width="100%">
+    <img src='images/SAME2023.JPG' alt="Dagstuhl" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>SAME 2023 (2023.04)</h3>
