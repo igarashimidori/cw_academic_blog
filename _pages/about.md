@@ -170,7 +170,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Hangzhou, China🇨🇳</div>
-    <img src='images/SAME2024.png' alt="ai4sseminar" width="100%">
+    <img src='images/SAME2024.jpg' alt="ai4sseminar" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>SAME 2024 (2024.04)</h3>
@@ -184,7 +184,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Shanghai, China🇨🇳</div>
-    <img src='images/SAME2023.png' alt="Dagstuhl" width="100%">
+    <img src='images/SAME2023.jpg' alt="Dagstuhl" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>SAME 2023 (2023.04)</h3>
@@ -212,7 +212,24 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 
 <span class='anchor' id='-interests'></span>
 # 😊 Interests
-<div class="blog-grid">
+<style>
+  .interests-grid .blog-card,
+  .interests-grid .blog-card-content,
+  .interests-grid .blog-description {
+    height: auto !important;
+    max-height: none !important;
+  }
+
+  .interests-grid .blog-description {
+    display: block !important;
+    overflow: visible !important;
+    -webkit-line-clamp: unset !important;
+    line-clamp: unset !important;
+    -webkit-box-orient: unset !important;
+  }
+</style>
+
+<div class="blog-grid interests-grid">
 
 <div class="blog-card">
     <div class="blog-card-image">
@@ -282,61 +299,112 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 </div>
 
 
-{% comment %}
+
 <span class='anchor' id='-bond'></span>
 # 🔗 Bond
-<div class='paper-box floating-card'>
+
+<div class='paper-box floating-card bond-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">My Friends</div>
-    <img src='images/friends.png' alt="friends" width="100%">
+    <div class="badge pulse-accent">My Love</div>
+    <div class="card-carousel" data-carousel>
+      <div class="carousel-track">
+        <img src='images/love.jpg' alt="Mr. Shi">
+        <img src='images/love2.jpg' alt="Mr. Shi and me">
+        <img src='images/love3.jpg' alt="Shared memories">
+        <img src='images/love4.jpg' alt="Shared memories">
+        <img src='images/love5.jpg' alt="Shared memories">
+      </div>
+      <button class="carousel-btn prev">&#8249;</button>
+      <button class="carousel-btn next">&#8250;</button>
+      <div class="carousel-dots"></div>
+    </div>
   </div>
+
   <div class='paper-box-text'>
-    <div class="venue">My academic friends includes 
-      <a href="https://yuanzhang.cc/" class="link-accent">Yuan Zhang</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=SgeV4NkAAAAJ" class="link-accent">Yulin Luo</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=lQaJlDYAAAAJ" class="link-accent">Aosong Chen</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=KAXu0vAAAAAJ" class="link-accent">Qingpo Wuwu</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=TxeAbWkAAAAJ" class="link-accent">Chun-Kai Fan</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=iXENYMYAAAAJ" class="link-accent">Chenkai Hou</a>,
-      <a href="https://scholar.google.com/citations?hl=en&user=X2ekEX8AAAAJ" class="link-accent">Siyuan Qian</a>,
-      <a href="https://scholar.google.com/citations?user=5JlrsxsAAAAJ&hl=zh-CN" class="link-accent">Hao Wang</a>,
-      <a href="https://scholar.google.com/citations?user=Wrcer2IAAAAJ&hl=zh-CN" class="link-accent">Peidong Jia</a>,
-      <a href="https://jiayueru.github.io/" class="link-accent">Yueru Jia</a>,
-      <a href="https://arctanxarc.github.io/" class="link-accent">Ruichuan An</a>,
-      Menghang Dong,
-      and Cheng-Ching Tseng from PKU🇨🇳;
-      Tianzhong Hou from BJMU🇨🇳;
-      <a href="https://rongyu.me/" class="link-accent">Rongyu Zhang</a> from NJU🇨🇳;
-      Xiaowei Chi from HKUST🇭🇰;
-      <a href="https://scholar.google.com/citations?hl=en&user=7e3w2oAAAAAJ" class="link-accent">Yu Zhou</a> from ISAS🇩🇪;
-      Zhi Zhang from UvA🇳🇱;
-      Jianchen Zhao from UT🇯🇵;
-      Qixin Ye from UT🇨🇦...
-      (No offense, but just too many friends to add. Let me know if I forget you😂)
+    <div class="venue">
+      <span class="primary-gradient-text">Mr. Shi</span>, my dear fiancé 🤍, has been my steady companion in life. Together with our four beloved cats, we are building a small life filled with warmth, trust, and love. Over 
+      <span class="accent-text" id="love-days" data-start="2018-12-16">2699</span> days and counting, we have walked side by side, grown together, and created many meaningful memories.
     </div>
   </div>
 </div>
 
-<div class='paper-box floating-card'>
+<div class='paper-box floating-card bond-card'>
   <div class='paper-box-image'>
-    <div class="badge pulse-accent">My Mentors</div>
-    <img src='images/mentor.png' alt="mentor" width="100%">
+    <div class="badge pulse-accent">My Friends & Collaborators</div>
+    <div class="card-carousel" data-carousel>
+      <div class="carousel-track">
+        <img src='images/friends.jpg' alt="Friends from OUC Lidar Lab">
+        <img src='images/friends2.jpg' alt="Friends from OUC Lidar Lab">
+        <img src='images/friends3.jpg' alt="Friends from LACCI Lab">
+        <img src='images/friends4.jpg' alt="Friends from LACCI Lab">
+      </div>
+      <button class="carousel-btn prev">&#8249;</button>
+      <button class="carousel-btn next">&#8250;</button>
+      <div class="carousel-dots"></div>
+    </div>
   </div>
+
   <div class='paper-box-text'>
-    <div class="venue">Besides my supervisors, 
-      Assistant Professor <a href="https://www.shanghangzhang.com/" class="link-accent">Shanghang Zhang</a> and
-      Professor <a href="https://idm.pku.edu.cn/info/1017/1040.htm" class="link-accent">Tiejun Huang</a>,
-      these mentors have influenced my academic taste:
-      Doctor <a href="https://scholar.google.com/citations?user=HdolpOgAAAAJ&hl=en" class="link-accent">Jianxu Chen</a> and
-      Professor <a href="https://sbms.bjmu.edu.cn/English/Faculty/PrincipalInvestigators/HAHE/Mo_Li.html" class="link-accent">Mo Li</a>.
+    <div class="venue">
+      <p>
+        <span class="primary-gradient-text">Xinru He, Zengguang Sun, and Jie Wang</span> were my best friends during my Master's years in the OUC Lidar Lab. With their companionship, my Master's journey was filled with warm and beautiful memories.
+      </p>
+      <p>
+        <span class="primary-gradient-text">Siyuan Jing and Jiayang Li</span> have been my best friends and academic partners at the LACCI Lab. We conducted experiments together, discussed research ideas, and I learned many admirable qualities from them.
+      </p>
     </div>
   </div>
 </div>
-{% endcomment %}
+
+<div class='paper-box floating-card bond-card'>
+  <div class='paper-box-image'>
+    <div class="badge pulse-accent">My Mentors</div>
+    <div class="card-carousel" data-carousel>
+      <div class="carousel-track">
+        <img src='images/mentor.jpg' alt="My mentors">
+        <img src='images/mentor2.jpg' alt="Academic guidance and support">
+      </div>
+      <button class="carousel-btn prev">&#8249;</button>
+      <button class="carousel-btn next">&#8250;</button>
+      <div class="carousel-dots"></div>
+    </div>
+  </div>
+
+  <div class='paper-box-text'>
+    <div class="venue">
+      Prof. <span class="primary-gradient-text">Songhua Wu</span> and Assoc. Prof. <span class="primary-gradient-text">Guangyao Dai</span> guided my Master's research on lidar remote sensing. I am also grateful to Asst. Prof. <span class="primary-gradient-text">Xianda Gong</span> for his guidance, support, and the opportunity to conduct INP experiments during my RA period.
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const loveDaysElement = document.getElementById("love-days");
+
+  if (loveDaysElement) {
+    const startDateText = loveDaysElement.dataset.start;
+    const startDate = new Date(startDateText + "T00:00:00");
+
+    const today = new Date();
+    const todayDate = new Date(
+      today.getFullYear(),
+      today.getMonth(),
+      today.getDate()
+    );
+
+    const diffTime = todayDate - startDate;
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+    loveDaysElement.textContent = diffDays;
+  }
+});
+</script>
+
+
 
 <!-- <div style="text-align: center;"> -->
 <div style="width: min(420px, 90vw); margin: 0 auto;">
-  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffb9b9&w=a&t=tt&d=6ZGI9ZcsWLQcS6TzQVHKhk54noO_hCDLaXL0vTe2Id4&co=ffffff&ct=ffa8a8'></script>
+  <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffbfcb&w=300&t=tt&d=Cuf-hd-p9dPwUT0NoTO-qdUT8FTBr2r5IRJkHkj6JM0&co=ffffff&ct=ffbfcb&cmo=3acc3a&cmn=ff5353'></script>
     <!-- 地图小部件代码结束 -->
 </div>
 
@@ -446,5 +514,45 @@ document.addEventListener('DOMContentLoaded', function() {
       });
     });
   }
+});
+</script>
+
+<script>
+// Card Carousel
+document.addEventListener('DOMContentLoaded', function () {
+  document.querySelectorAll('[data-carousel]').forEach(function (carousel) {
+    const track = carousel.querySelector('.carousel-track');
+    const slides = track.querySelectorAll('img');
+    const dotsContainer = carousel.querySelector('.carousel-dots');
+    const prevBtn = carousel.querySelector('.carousel-btn.prev');
+    const nextBtn = carousel.querySelector('.carousel-btn.next');
+
+    if (slides.length <= 1) {
+      if (prevBtn) prevBtn.style.display = 'none';
+      if (nextBtn) nextBtn.style.display = 'none';
+      // single image: still render one dot
+    }
+
+    let current = 0;
+
+    // Build dots
+    slides.forEach(function (_, i) {
+      const dot = document.createElement('span');
+      dot.className = 'dot' + (i === 0 ? ' active' : '');
+      dot.addEventListener('click', function () { goTo(i); });
+      dotsContainer.appendChild(dot);
+    });
+
+    function goTo(index) {
+      current = (index + slides.length) % slides.length;
+      track.style.transform = 'translateX(-' + (current * 100) + '%)';
+      dotsContainer.querySelectorAll('.dot').forEach(function (d, i) {
+        d.classList.toggle('active', i === current);
+      });
+    }
+
+    if (prevBtn) prevBtn.addEventListener('click', function () { goTo(current - 1); });
+    if (nextBtn) nextBtn.addEventListener('click', function () { goTo(current + 1); });
+  });
 });
 </script>

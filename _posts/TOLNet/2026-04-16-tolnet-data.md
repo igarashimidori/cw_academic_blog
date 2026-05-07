@@ -2,9 +2,8 @@
 layout: post
 title: "TOLNet Data"
 date: 2026-04-16
-categories: research
 tags: ["TOLNet", "Lidar", "Research Data"]
-excerpt: "Introduction to TOLNet - Tropospheric Ozone Lidar Network data and tools"
+excerpt: "Study for TOLNet"
 ---
 
 ## 1.Background

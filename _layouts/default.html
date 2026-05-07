@@ -9,7 +9,7 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.layout %} class="layout--{{ page.layout }}"{% endif %}>
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 

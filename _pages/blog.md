@@ -22,10 +22,10 @@ author_profile: true
     <h3><a href="{{ site.baseurl }}{{ post.url }}" class="link-accent">{{ post.title }}</a></h3>
     <div class="venue">{{ post.date | date: "%Y-%m-%d" }}</div>
 
-    {% if post.categories and post.categories.size > 0 %}
+    {% if post.tags and post.tags.size > 0 %}
     <div class="badge-container">
-      {% for category in post.categories %}
-      <span class="inner-tag-badge">{{ category }}</span>
+      {% for tag in post.tags %}
+      <span class="inner-tag-badge">{{ tag }}</span>
       {% endfor %}
     </div>
     {% endif %}
