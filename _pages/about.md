@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Wen Chu | Research"  
-excerpt: "Ph.D student at Nanjing University. Research focus on RS and Atmospheric Sciences."
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -184,7 +184,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
 <div class='paper-box floating-card'>
   <div class='paper-box-image'>
     <div class="badge pulse-accent">Shanghai, China🇨🇳</div>
-    <img src='images/SAME2023.JPG' alt="Dagstuhl" width="100%">
+    <img src='images/SAME2023.png' alt="Dagstuhl" width="100%">
   </div>
   <div class='paper-box-text'>
     <h3>SAME 2023 (2023.04)</h3>
@@ -308,11 +308,10 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     <div class="badge pulse-accent">My Love</div>
     <div class="card-carousel" data-carousel>
       <div class="carousel-track">
-        <img src='images/love.jpg' alt="Mr. Shi">
-        <img src='images/love2.jpg' alt="Mr. Shi and me">
-        <img src='images/love3.jpg' alt="Shared memories">
-        <img src='images/love4.jpg' alt="Shared memories">
-        <img src='images/love5.jpg' alt="Shared memories">
+        <img src='images/love.png' alt="Mr. Shi">
+        <img src='images/love2.png' alt="Mr. Shi and me">
+        <img src='images/love3.png' alt="Shared memories">
+        <img src='images/love4.png' alt="Shared memories">
       </div>
       <button class="carousel-btn prev">&#8249;</button>
       <button class="carousel-btn next">&#8250;</button>
@@ -333,10 +332,8 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     <div class="badge pulse-accent">My Friends & Collaborators</div>
     <div class="card-carousel" data-carousel>
       <div class="carousel-track">
-        <img src='images/friends.jpg' alt="Friends from OUC Lidar Lab">
-        <img src='images/friends2.jpg' alt="Friends from OUC Lidar Lab">
-        <img src='images/friends3.jpg' alt="Friends from LACCI Lab">
-        <img src='images/friends4.jpg' alt="Friends from LACCI Lab">
+        <img src='images/friends.png' alt="Friends from OUC Lidar Lab">
+        <img src='images/friends2.png' alt="Friends from OUC Lidar Lab">
       </div>
       <button class="carousel-btn prev">&#8249;</button>
       <button class="carousel-btn next">&#8250;</button>
@@ -361,8 +358,8 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     <div class="badge pulse-accent">My Mentors</div>
     <div class="card-carousel" data-carousel>
       <div class="carousel-track">
-        <img src='images/mentor.jpg' alt="My mentors">
-        <img src='images/mentor2.jpg' alt="Academic guidance and support">
+        <img src='images/mentor.png' alt="My mentors">
+        <img src='images/mentor2.png' alt="Academic guidance and support">
       </div>
       <button class="carousel-btn prev">&#8249;</button>
       <button class="carousel-btn next">&#8250;</button>
@@ -376,6 +373,42 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
   </div>
 </div>
+
+<span class='anchor' id='-blogs'></span>
+# 📝 Blogs
+
+{% if site.posts.size > 0 %}
+<div class="local-blogs-section">
+  <div class="local-blogs-header">
+    <h3>🖊️ Latest Posts</h3>
+    <a href="{{ '/blog/' | relative_url }}" class="view-all-btn">
+      View All Posts <i class="fas fa-arrow-right"></i>
+    </a>
+  </div>
+
+  <div class="blog-grid">
+    {% assign sorted_posts = site.posts | sort: 'date' | reverse %}
+    {% for post in sorted_posts limit:6 %}
+    <a href="{{ post.url | relative_url }}" class="blog-card-link">
+      <div class="blog-card">
+        <div class="blog-card-image">
+          <div class="blog-badge">{{ post.date | date: "%B, %Y" }}</div>
+          {% if post.cover_image %}
+          <img src="{{ post.cover_image | relative_url }}" alt="{{ post.title }}">
+          {% else %}
+          <img src="{{ '/images/500x300.png' | relative_url }}" alt="{{ post.title }}">
+          {% endif %}
+        </div>
+        <div class="blog-card-content">
+          <div class="blog-title">{{ post.title }}</div>
+          <div class="blog-description">{{ post.description | default: post.excerpt | strip_html | truncate: 120 }}</div>
+        </div>
+      </div>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
 
 <script>
 document.addEventListener("DOMContentLoaded", function () {
