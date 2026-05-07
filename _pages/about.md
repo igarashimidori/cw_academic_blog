@@ -158,8 +158,8 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     <img src='images/3DWind_Symposium.png' alt="ai4sseminar" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>Symposium on 3D Wind Field Detection and Application Technology of the Third-Generation Polar-Orbiting Meteorological Satellites (2024.06)</h3>
-
+    <h3>Symposium on 3D Wind Field Detection and Application Technology of the Third-Generation Polar-Orbiting Meteorological Satellites</h3>
+    <div class="activity-date"><i class="fas fa-calendar-alt"></i> June 1, 2024</div>
     <div class="venue">Assisted my research group in organizing the symposium, responsible for conference logistics and on-site coordination.</div>
     <div class="links">
       <a href="https://www.opticsjournal.net/meeting/same2024.cshtml" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
@@ -173,7 +173,8 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     <img src='images/SAME2024.JPG' alt="ai4sseminar" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>SAME 2024 (2024.04)</h3>
+    <h3>SAME 2024</h3>
+    <div class="activity-date"><i class="fas fa-calendar-alt"></i> April 8, 2024</div>
     <div class="venue">The 2nd Conference on Space, Atmosphere, Marine and Environmental Optics. Honored to deliver my first conference oral presentation here 🎤.</div>
     <div class="links">
       <a href="https://www.opticsjournal.net/meeting/same2024.cshtml" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
@@ -187,7 +188,8 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     <img src='images/SAME2023.png' alt="Dagstuhl" width="100%">
   </div>
   <div class='paper-box-text'>
-    <h3>SAME 2023 (2023.04)</h3>
+    <h3>SAME 2023</h3>
+    <div class="activity-date"><i class="fas fa-calendar-alt"></i> April 7, 2023</div>
     <div class="venue">The 1st Conference on Space, Atmosphere, Marine and Environmental Optics.</div>
     <div class="links">
       <a href="https://atom.opticsjournal.net/meeting/same2023.cshtml" class="btn-accent"><i class="fas fa-file-alt"></i> Link</a>
