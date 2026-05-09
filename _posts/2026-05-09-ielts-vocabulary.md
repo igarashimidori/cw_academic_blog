@@ -3,6 +3,7 @@ layout: post
 title: "IELTS Vocabulary"
 date: 2026-05-07
 tags: ["IELTS"]
+category: "Language Learning"
 excerpt: "《雅思词汇真经》词汇"
 cover_image: /images/IELTS/vocabulary_IELTS.jpg
 ---
@@ -15,7 +16,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | hydrosphere | n. | 水圈；大气中的水汽 |
 | - [ ] | lithosphere | n. | 岩石圈 |
 | - [ ] | oxygen | n. | 氧气 |
-| - [ ] | oxide | n. | 氧化物 |
+| - [x] | oxide | n. | 氧化物 |
 | - [ ] | carbon dioxied | n. | 二氧化碳 |
 | - [ ] | hydrogen | n. | 氢气 |
 | - [x] | core | n. | 中心；核心；地核 |
@@ -105,18 +106,18 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | shallow | adj. | 浅的；肤浅的；浅薄的 |
 | - [ ] | superficial | adj. | 表皮的；表层的 |
 | - [ ] | flat | adj. | 平躺的；扁平的；单调的 |
-| - [ ] | smooth | adj. | 光滑的；平稳的；流畅的 |
-| - [ ] | rough | adj. | 粗糙的；粗略的 |
-| - [ ] | sandy | adj. | 含沙的；铺满沙的 |
-| - [ ] | stony | adj. | 石头的；多石的 |
+| - [x] | smooth | adj. | 光滑的；平稳的；流畅的 |
+| - [x] | rough | adj. | 粗糙的；粗略的 |
+| - [x] | sandy | adj. | 含沙的；铺满沙的 |
+| - [x] | stony | adj. | 石头的；多石的 |
 | - [x] | vertical | adj. | 垂直的；直立的 |
-| - [ ] | steep | adj. | 陡峭的 |
+| - [x] | steep | adj. | 陡峭的 |
 | - [ ] | parallel | n./adj./v. | parallel |
 | - [x] | narrow | adj./n. | 狭窄的；有极限的 |
 | - [ ] | Oceania | n. | 大洋洲 |
-| - [ ] | mainland | n. | 大陆；本土 |
+| - [x] | mainland | n. | 大陆；本土 |
 | - [ ] | peninsula | n. | 半岛 |
-| - [ ] | climate | n. | 气候；风气；环境气氛 |
+| - [x] | climate | n. | 气候；风气；环境气氛 |
 | - [x] | weather | n. | 天气；气象 |
 | - [ ] | meteorology | n. | 气象学 |
 | - [ ] | mild | adj. | 温和的；不严重的 |
@@ -133,12 +134,12 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | frost | n. | 霜；霜冻；严寒 |
 | - [ ] | hail | n./v. | 冰雹；赞扬；招呼；下冰雹 |
 | - [ ] | thaw | v./n. | 解冻；融解；融化；解冻时期 |
-| - [ ] | chill | v./n. | 使变冷；使恐惧；寒冷；害怕 |
+| - [x] | chill | v./n. | 使变冷；使恐惧；寒冷；害怕 |
 | - [ ] | freeze | v./n. | 结冰；霜冻；严寒期 |
 | - [ ] | frigid | adj. | 寒冷的 |
 | - [ ] | tremble | v./n. | 战栗；颤抖 |
 | - [ ] | shiver | v. | 颤抖；哆嗦；发抖 |
-| - [ ] | thunder | n./v. | 雷；雷声；轰隆作响 |
+| - [x] | thunder | n./v. | 雷；雷声；轰隆作响 |
 | - [ ] | lightning | n./v. | 闪电；闪电般移动 |
 | - [ ] | stormy | adj. | 暴风雨的；激烈的 |
 | - [ ] | downpour | n. | 倾盆大雨 |

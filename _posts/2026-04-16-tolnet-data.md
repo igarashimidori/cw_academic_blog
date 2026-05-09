@@ -3,6 +3,7 @@ layout: post
 title: "TOLNet Data"
 date: 2026-04-16
 tags: ["TOLNet", "Lidar", "Research Data"]
+category: "Research"
 excerpt: "Study for TOLNet"
 cover_image: /images/TOLNet/tolnet-location.png
 ---

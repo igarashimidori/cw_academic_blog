@@ -7,6 +7,7 @@ title: "Ensemble data assimilation (1) - Introduction"
 date: 2026-05-07
 
 tags: ["Lidar", "Satellite"]
+category: "Remote Sensing"
 
 excerpt: "Basic knowledge of CMIP6"
 
