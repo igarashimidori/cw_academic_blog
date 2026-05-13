@@ -10,9 +10,9 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 
 ## 1. 自然地理
 
-| Check | 单词 | 词性 | 释义 |
+| Check | 单词 | 词性 | 释义 | Tip
 | --- | --- | --- | --- |
-| - [x] | atmosphere | n. | 大气层；氛围 |
+| - [x] | atmosphere | n. | 大气层；氛围 | 
 | - [ ] | hydrosphere | n. | 水圈；大气中的水汽 |
 | - [ ] | lithosphere | n. | 岩石圈 |
 | - [ ] | oxygen | n. | 氧气 |
@@ -119,7 +119,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | peninsula | n. | 半岛 |
 | - [x] | climate | n. | 气候；风气；环境气氛 |
 | - [x] | weather | n. | 天气；气象 |
-| - [ ] | meteorology | n. | 气象学 |
+| - [x] | meteorology | n. | 气象学 |
 | - [ ] | mild | adj. | 温和的；不严重的 |
 | - [ ] | heating | n. | 供暖；暖气装置 |
 | - [ ] | moderate | adj./v. | 适度的；温和的；中等的；使缓和 |
@@ -130,7 +130,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | moist | adj. | 潮湿的；湿润的 |
 | - [ ] | damp | adj. | 湿气重的；潮湿的 |
 | - [ ] | humid | adj. | 潮湿的；湿热的 |
-| - [ ] | snowy | adj. | 下雪的；多雪的；雪白的 |
+| - [x] | snowy | adj. | 下雪的；多雪的；雪白的 |
 | - [ ] | frost | n. | 霜；霜冻；严寒 |
 | - [ ] | hail | n./v. | 冰雹；赞扬；招呼；下冰雹 |
 | - [ ] | thaw | v./n. | 解冻；融解；融化；解冻时期 |
@@ -141,7 +141,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | shiver | v. | 颤抖；哆嗦；发抖 |
 | - [x] | thunder | n./v. | 雷；雷声；轰隆作响 |
 | - [ ] | lightning | n./v. | 闪电；闪电般移动 |
-| - [ ] | stormy | adj. | 暴风雨的；激烈的 |
+| - [x] | stormy | adj. | 暴风雨的；激烈的 |
 | - [ ] | downpour | n. | 倾盆大雨 |
 | - [ ] | rainfall | n. | 降雨量 |
 | - [ ] | sprinkle | v./n. | 撒；下小雨；少量；小雨 |
@@ -152,7 +152,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | forecast | n./v. | 预测；预报 |
 | - [ ] | peak | n./v. | 山峰；顶点；达到最大值 |
 | - [ ] | mount | v./n. | 渐渐增加；爬上；登上；山 |
-| - [ ] | mountain | n. | 山；高山 |
+| - [x] | mountain | n. | 山；高山 |
 | - [ ] | range | n. | 山脉；范围 |
 | - [ ] | ridge | n./v. | 山脊；山脉；使隆起 |
 | - [ ] | slope | v./n. | 倾斜；有坡度；山坡；斜坡 |
@@ -179,12 +179,12 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | rural | adj. | 农村的；乡村的；田园的 |
 | - [ ] | suburb | n. | 郊区；郊外；近郊 |
 | - [ ] | outskirts | n. | 郊区；市郊 |
-| - [ ] | remote | adj. | 遥远的；偏僻的；疏远的 |
+| - [x] | remote | adj. | 遥远的；偏僻的；疏远的 |
 | - [ ] | desolate | adj. | 荒凉的 |
 | - [ ] | distant | adj. | 疏远的；遥远的 |
 | - [ ] | adjacent | adj. | 邻近的；毗连的 |
 | - [x] | toxic | adj. | 有毒的 |
-| - [ ] | pollution | n. | 污染；污染物 |
+| - [x] | pollution | n. | 污染；污染物 |
 | - [ ] | pollutant | n. | 污染物质 |
 | - [ ] | contaminate | v. | 污染；弄脏 |
 | - [ ] | geology | n. | 地质学；地质状况 |
@@ -194,7 +194,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | plate | n. | 板块；盘 |
 | - [ ] | debris | n. | 碎片；残骸 |
 | - [ ] | crack | v./n. | 破裂；发出爆裂声；裂缝；缝隙 |
-| - [ ] | gap | n. | 缺口；裂缝；差距；空白 |
+| - [x] | gap | n. | 缺口；裂缝；差距；空白 |
 | - [ ] | splendid | adj. | 极好的；壮观的 |
 | - [ ] | grand | adj. | 宏大的；豪华的；宏伟的；极好的 |
 | - [ ] | magnificent | adj. | 壮丽的；宏伟的；令人印象深刻的 |
@@ -202,7 +202,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | interesting | adj. | 有趣的；引人关注的 |
 | - [ ] | dramatic | adj. | 戏剧的；引人入胜的 |
 | - [ ] | wilderness | n. | 荒野 |
-| - [ ] | desert | n./v. | 沙漠；遗弃 |
+| - [x] | desert | n./v. | 沙漠；遗弃 |
 | - [ ] | deforest | v. | 毁掉...深林 |
 | - [ ] | barren | adj. | 贫瘠的；荒芜的；不结果实的 |
 | - [ ] | fertile | adj. | 富饶的；肥沃的 |
@@ -210,15 +210,15 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [x] | solar | adj. | 太阳的；日光的 |
 | - [x] | lunar | adj. | 月亮的；月球的 |
 | - [ ] | calendar | n. | 日历；历法 |
-| - [ ] | sunrise | n. | 日出 |
-| - [ ] | sunset | n. | 日落；晚霞 |
+| - [x] | sunrise | n. | 日出 |
+| - [x] | sunset | n. | 日落；晚霞 |
 | - [ ] | eclipse | n. | 日食；月食 |
 | - [ ] | dusk | n. | 黄昏 |
 | - [ ] | heaven | n. | 天堂；极乐之地 |
 | - [ ] | paradise | n. | 天堂；乐园；福地 |
 | - [ ] | sunshine | n. | 阳光；日光 |
 | - [ ] | shade | n./v. | 阴影部分；背阴处；给...遮挡（光线） |
-| - [ ] | shadow | n. | 影子 |
+| - [x] | shadow | n. | 影子 |
 | - [ ] | vapour | n. | =vapor 蒸汽；水汽 |
 | - [ ] | evaporate | v. | 使蒸发；消失 |
 | - [ ] | circulate | v. | 循环；流通；传播 |
@@ -226,7 +226,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | reservoir | n. | 水库；蓄水池 |
 | - [ ] | waterfall | n. | 瀑布 |
 | - [ ] | fountain | n. | 喷泉；源泉 |
-| - [ ] | spring | n. | 春天；泉水 |
+| - [x] | spring | n. | 春天；泉水 |
 | - [ ] | dew | n. | 露水 |
 | - [ ] | pour | v. | 倾泻；倒；倾盆而下 |
 | - [ ] | drain | v./n. | 排空；流出；耗竭 |
@@ -241,10 +241,10 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | emerge | v. | 浮现；露出；暴露；摆脱出来 |
 | - [x] | flash | v./n. | 闪光；闪现；快速显示 |
 | - [x] | float | v. | 漂浮；浮动 |
-| - [ ] | environment | n. | 环境；自然环境 |
+| - [x] | environment | n. | 环境；自然环境 |
 | - [ ] | surrounding | adj. | 周围的；附近的 |
-| - [ ] | condition | n. | 条件；情况；状态 |
-| - [ ] | situation | n. | 情况；形势；处境 |
+| - [x] | condition | n. | 条件；情况；状态 |
+| - [x] | situation | n. | 情况；形势；处境 |
 | - [x] | nature | n. | 自然；本性；性质 |
 | - [ ] | natural | adj. | 自然的；天然的；天生的 |
 | - [ ] | artificial | adj. | 人造的 |
@@ -262,7 +262,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | respire | v. | 呼吸 |
 | - [ ] | dioxide | n. | 二氧化物 |
 | - [ ] | vagetation | n. | 植物；草木 |
-| - [ ] | herb | n. | 药草；香草 |
+| - [x] | herb | n. | 药草；香草 |
 | - [ ] | perennial | n./adj. | 多年生植物；长期的；持久的 |
 | - [ ] | botany | n. | 植物学 |
 | - [ ] | ecology | n. | 生态学；生态 |
@@ -296,7 +296,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | bundle | n. | 捆；包；束 |
 | - [ ] | bunch | n. | 一束（花）；一串（钥匙） |
 | - [ ] | vase | n. | 瓶；花瓶 |
-| - [ ] | sunlight | n. | 阳光 |
+| - [x] | sunlight | n. | 阳光 |
 | - [ ] | short-day | adj. | 短日照的 |
 | - [ ] | shade-tolerant | adj. | 耐阴的 |
 | - [ ] | fungus | n. | 真菌 |
@@ -306,20 +306,20 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | seed | n. | 种子 |
 | - [ ] | burgeon | n./v. | 嫩枝；新芽；极速生长；发芽；抽枝 |
 | - [ ] | bud | n. | 芽；苞；蓓蕾 |
-| - [ ] | flower | n. | 花；花朵 |
+| - [x] | flower | n. | 花；花朵 |
 | - [ ] | blossom | v./n. | 开花；花朵 |
-| - [ ] | bloom | n. | 花朵 |
+| - [x] | bloom | n. | 花朵 |
 | - [ ] | scent | n./v. | 气味；香味；使具有香味 |
 | - [ ] | aromatic | adj. | 芳香的 |
 | - [ ] | ripen | v. | 使成熟 |
-| - [ ] | fruit | v. | 结果实 |
+| - [x] | fruit | v. | 结果实 |
 | - [ ] | wither | v. | （使）枯萎 |
 | - [ ] | decompose | v. | 分解；腐烂 |
 | - [ ] | rot | v./n. | 使腐烂；使腐坏；腐烂 |
 | - [ ] | decay | v. | 腐烂 |
 | - [ ] | stale | adj. | 不新鲜的；没有新意的；陈腐的 |
 | - [ ] | rainforest | n. | 雨林 |
-| - [ ] | jungle | n. | 丛林 |
+| - [x] | jungle | n. | 丛林 |
 | - [ ] | plantation | n. | 种植园 |
 | - [ ] | field | n. | 原野；场地；野外 |
 | - [ ] | terrace | n. | 梯田 |
@@ -331,13 +331,13 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | branch | n. | 树枝；分支机构；分店 |
 | - [ ] | trunk | n. | 树干；躯干；大箱子 |
 | - [ ] | bough | n. | 大树枝 |
-| - [ ] | root | n./v. | 根；使生根 |
+| - [x] | root | n./v. | 根；使生根 |
 | - [ ] | hay | n. | 干草 |
 | - [ ] | straw | n. | 稻草；麦秆；吸管 |
 | - [ ] | reed | n. | 芦苇 |
 | - [ ] | thorn | n. | 刺；荆棘 |
 | - [ ] | weed | n. | 杂草 |
-| - [ ] | grass | n. | 草；草地 |
+| - [x] | grass | n. | 草；草地 |
 | - [ ] | meadow | n. | 草地；牧草 |
 | - [ ] | lawn | n. | 草地；草坪 |
 | - [ ] | olive | n. | 橄榄；橄榄树 |
@@ -357,11 +357,11 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | exceed | v. | 超出 |
 | - [ ] | uptake | n. | 摄取；领会 |
 | - [ ] | nutrient | n. | 营养物质 |
-| - [ ] | energy | n. | 能源；精力 |
+| - [x] | energy | n. | 能源；精力 |
 | - [ ] | surroundings | n. | 环境可与environment互换 |
 | - [ ] | mechanism | n. | 机制；构造 |
 | - [ ] | counterbalance | n./v. | 其平衡作用的事物；抵消；对...起平衡作用 |
-| - [ ] | protect | v. | 保护 |
+| - [x] | protect | v. | 保护 |
 | - [ ] | preserve | v. | 保护；维持；保存 |
 | - [ ] | conservation | n. | 保护；保存 |
 | - [ ] | bushfire | n. | 林区大火 |
@@ -374,13 +374,13 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | undermine | v. | 破坏；逐渐削弱 |
 | - [ ] | extinction | n. | 灭绝 |
 | - [ ] | pattern | n. | 模式；样式；底样 |
-| - [ ] | outcome | n. | 结果 |
-| - [ ] | impact | n. | 影响 |
+| - [x] | outcome | n. | 结果 |
+| - [x] | impact | n. | 影响 |
 | - [ ] | seasonal | adj. | 季节性的 |
 | - [ ] | experimental | adj. | 实验性的 |
 | - [ ] | favourable | adj. | =favorable 有利的；赞成的；肯定的 |
 | - [ ] | productive | adj. | 多产的 |
-| - [ ] | effective | adj. | 有效的 |
+| - [x] | effective | adj. | 有效的 |
 | - [ ] | efficient | adj. | 效率高的 |
 | - [ ] | considerable | adj. | 相当多的 |
 | - [ ] | massive | adj. | 巨大的；大规模的；庞大的 |
@@ -437,7 +437,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | brood | n./v. | 一窝幼鸟；孵（蛋） |
 | - [ ] | spawn | n./v. | （鱼、蛙的）卵；产卵；引起 |
 | - [ ] | mature | adj./v. | 成熟的；成熟 |
-| - [ ] | skin | n. | 皮肤 |
+| - [x] | skin | n. | 皮肤 |
 | - [ ] | claw | n. | 爪；钳；鳌；爪状物 |
 | - [ ] | paw | n. | （动物的）脚掌；爪子 |
 | - [ ] | beak | n. | 鸟嘴；喙 |
@@ -469,9 +469,9 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | ivory | n. | 象牙 |
 | - [ ] | horn | n. | （牛羊等动物的）角；（乐器的）号 |
 | - [ ] | bear | n. | 熊 |
-| - [ ] | wolf | n. | 狼 |
+| - [x] | wolf | n. | 狼 |
 | - [ ] | dragon | n. | 龙；悍妇 |
-| - [ ] | fox | n. | 狐狸🦊；狡猾的人 |
+| - [x] | fox | n. | 狐狸🦊；狡猾的人 |
 | - [ ] | cub | n. | 幼兽 |
 | - [ ] | calf | n. | 幼兽；小牛🐂 |
 | - [ ] | pup | n. | 幼小动物 |
@@ -488,19 +488,19 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | falcon | n. | 隼；猎鹰 |
 | - [ ] | hawk | n. | 鹰；隼 |
 | - [ ] | eagle | n. | 雕 |
-| - [ ] | owl | n. | 猫头鹰 |
+| - [x] | owl | n. | 猫头鹰 |
 | - [ ] | swallow | n. | 燕子 |
 | - [ ] | sparrow | n. | 麻雀 |
 | - [ ] | pigeon | n. | 鸽子 |
 | - [ ] | crow | n. | 乌鸦 |
 | - [ ] | swan | n. | 天鹅 |
-| - [ ] | goose | n. | 鹅；鹅肉 |
+| - [x] | goose | n. | 鹅；鹅肉 |
 | - [ ] | cock | n. | 公鸡；雄禽 |
 | - [ ] | mouse | n. | 老鼠；鼠标 |
-| - [ ] | rat | n. | 老鼠；卑鄙的人 |
 | - [ ] | squirrel | n. | 松树 |
+| - [ ] | rat | n. | 老鼠；卑鄙的人 |
 | - [ ] | hare | n. | 野兔 |
-| - [ ] | frog | n. | 青蛙 |
+| - [x] | frog | n. | 青蛙 |
 | - [ ] | behaviour | n. | =behavior 行为；活动方式 |
 | - [ ] | bite | v./n. | 咬；（昆虫）叮；吞饵 |
 | - [ ] | sting | v./n. | 刺；叮；（使）感觉刺痛；鳌针；蜇痛 |
@@ -512,7 +512,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | habitat | n. | 栖息地 |
 | - [ ] | nest | n. | 巢；窝；穴 |
 | - [ ] | hive | n./v. | 蜂房；繁忙的场所；（使）入蜂箱；（像蜜蜂般）密集群居 |
-| - [ ] | cell | n. | 蜂房巢室；细胞；单人牢房 |
+| - [x] | cell | n. | 蜂房巢室；细胞；单人牢房 |
 | - [ ] | cage | n. | 笼子 |
 | - [ ] | stable | n./adj. | 马厩；牛棚；稳定的 |
 | - [ ] | barn | n. | 谷仓；牲口棚 |
@@ -566,7 +566,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 
 | Check | 单词 | 词性 | 释义 |
 | --- | --- | --- | --- |
-| - [ ] | galaxy | n. | 星系 |
+| - [x] | galaxy | n. | 星系 |
 | - [ ] | cosmos | n. | 宇宙 |
 | - [ ] | universe | n. | 宇宙；万物；世界 |
 | - [ ] | interstellar | adj. | 星际的 |
@@ -607,7 +607,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | composition | n. | 成分；构成；作品；创作 |
 | - [ ] | compound | n./adj./v. | 混合物；化合物。复合的；组合的。混合 |
 | - [ ] | fossil | n. | 化石 |
-| - [ ] | sample | n. | 样品；样本 |
+| - [x] | sample | n. | 样品；样本 |
 | - [ ] | specimen | n. | 样品；标本 |
 | - [ ] | particle | n. | 颗粒；微粒；极小量 |
 | - [ ] | molecule | n. | 分子 |
@@ -620,7 +620,7 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | solid | n./adj. | 固体。固体的；牢固的 |
 | - [ ] | synthesis | v. | =synthesize 合成；综合 |
 | - [ ] | formation | n. | 形成 |
-| - [ ] | method | n. | 方法 |
+| - [x] | method | n. | 方法 |
 | - [ ] | spectrum | n. | 光谱；范围 |
 | - [ ] | dimension | n. | 维度 |
 | - [ ] | frequency | n. | 频率；发生次数 |
@@ -682,15 +682,15 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | spur | v./n. | 鞭策；激发。马刺；刺激 |
 | - [ ] | impetus | n. | 推动；促进；动量；惯性 |
 | - [ ] | indulge | v. | 迁就；放任；沉湎；让...享受一下 |
-| - [ ] | spoil | v. | 宠坏；溺爱；破坏；糟蹋 |
-| - [ ] | abuse | v. | 滥用；虐待 |
-| - [ ] | intelligent | adj. | 聪明的 |
-| - [ ] | clever | adj. | 聪明的；精明的 |
-| - [ ] | smart | adj. | 聪明的；智能的 |
+| - [x] | spoil | v. | 宠坏；溺爱；破坏；糟蹋 |
+| - [x] | abuse | v. | 滥用；虐待 |
+| - [x] | intelligent | adj. | 聪明的 |
+| - [x] | clever | adj. | 聪明的；精明的 |
+| - [x] | smart | adj. | 聪明的；智能的 |
 | - [ ] | all-round | adj. | =all-around 有多方面才能的；全面的 |
-| - [ ] | genius | n. | 天才人物；天赋 |
+| - [x] | genius | n. | 天才人物；天赋 |
 | - [ ] | elite | n. | 精英 |
-| - [ ] | idiot | n. | 白痴；傻瓜 |
+| - [x] | idiot | n. | 白痴；傻瓜 |
 | - [ ] | wisdom | n. | 智慧；学问 |
 | - [ ] | wit | n. | 风趣的人；机智；风趣；智慧 |
 | - [ ] | aptitude | n. | 天生的才能；资质 |
@@ -706,20 +706,20 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | respect | n./v. | 尊敬；敬重 |
 | - [ ] | diligent | adj. | 勤勉的；勤奋的 |
 | - [ ] | painstaking | adj. | 极其仔细的；辛苦的 |
-| - [ ] | skill | n. | 技巧 |
+| - [x] | skill | n. | 技巧 |
 | - [ ] | approac | n./v. | 方法。接近 |
 | - [ ] | scheme | n./v. | 计划；方案；阴谋。谋划 |
 | - [ ] | headmaster | n. | [英]男校长 |
 | - [ ] | principal | n./adj. | [美]（中小学）校长；[英]大学校长；学院院长。首要的 |
 | - [ ] | dean | n. | （大学的）学院院长；系主任 |
 | - [ ] | faculty | n. | （大学的）系、院；全体教员 |
-| - [ ] | professor | n. | 教授 |
-| - [ ] | scholar | n. | 学者 |
-| - [ ] | scientist | n. | 科学家 |
-| - [ ] | mentor | n. | 导师；顾问 |
+| - [x] | professor | n. | 教授 |
+| - [x] | scholar | n. | 学者 |
+| - [x] | scientist | n. | 科学家 |
+| - [x] | mentor | n. | 导师；顾问 |
 | - [ ] | tutor | n. | 家庭教师；（英国大学或者学院的）导师 |
 | - [ ] | lecturer | n. | 讲师 |
-| - [ ] | assistant | n. | 助理；助手 |
+| - [x] | assistant | n. | 助理；助手 |
 | - [ ] | candidate | n. | 候选人；求职者；考生 |
 | - [ ] | degree | n. | 学位；程度 |
 | - [ ] | qualify | v. | （使）有资格、有权 |
@@ -1725,9 +1725,9 @@ cover_image: /images/IELTS/vocabulary_IELTS.jpg
 | - [ ] | robe | n. | 长袍；浴袍 |
 | - [ ] | gown | n. | 长外衣；女礼服 |
 | - [ ] | sweater | n. | 毛衣；线衣 |
-| - [ ] | jacket | n. | 夹克衫 |
+| - [x] | jacket | n. | 夹克衫 |
 | - [ ] | skirt | n. | 裙子 |
-| - [ ] | jeans | n. | 牛仔裤 |
+| - [x] | jeans | n. | 牛仔裤 |
 | - [ ] | trousers | n. | （尤英）裤子 |
 | - [ ] | clasp | n./v. | 搭扣；扣住 |
 | - [ ] | button | n./v. | 纽扣；按钮；扣上...的纽扣 |

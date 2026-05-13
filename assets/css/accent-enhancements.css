@@ -1464,6 +1464,83 @@ body {
   accent-color: #adb5bd;
 }
 
+.post-pagination {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 3rem 0 0;
+}
+
+.post-pagination__card {
+  display: flex;
+  min-height: 128px;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0.45rem;
+  min-width: 0;
+  padding: 1.15rem 1.25rem;
+  background: #ffffff;
+  border: 1px solid rgba(1, 47, 99, 0.08);
+  border-radius: 12px;
+  box-shadow: 0 3px 14px rgba(1, 47, 99, 0.07);
+  color: #012F63 !important;
+  text-decoration: none !important;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.post-pagination__card::after {
+  display: none !important;
+}
+
+.post-pagination__card:hover,
+.post-pagination__card:focus {
+  border-color: rgba(254, 102, 123, 0.35);
+  box-shadow: 0 8px 24px rgba(1, 47, 99, 0.12);
+  color: #012F63 !important;
+  text-decoration: none !important;
+  transform: translateY(-3px);
+}
+
+.post-pagination__card--next {
+  align-items: flex-end;
+  text-align: right;
+}
+
+.post-pagination__card--empty {
+  visibility: hidden;
+}
+
+.post-pagination__eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  color: #FE667B;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+
+.post-pagination__eyebrow i {
+  color: #FE667B !important;
+  font-size: 0.9em;
+}
+
+.post-pagination__title {
+  color: #012F63;
+  font-size: 1rem;
+  font-weight: 800;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
+.post-pagination__date {
+  color: #7b8794;
+  font-size: 0.84rem;
+  font-weight: 600;
+}
+
 @media (max-width: 768px) {
   .post-title {
     font-size: 1.6rem;
@@ -1497,6 +1574,19 @@ body {
 
   .post-content h3 {
     font-size: 1.1rem;
+  }
+
+  .post-pagination {
+    grid-template-columns: 1fr;
+  }
+
+  .post-pagination__card--next {
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .post-pagination__card--empty {
+    display: none;
   }
 }
 

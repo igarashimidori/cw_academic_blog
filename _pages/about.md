@@ -240,7 +240,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Haikyu!! 🏐</div>
-      <div class="blog-description">I've rewatched it countless times. Every time I watch it, I draw immense inspiration and courage from their pure passion and teamwork.</div>
+      <div class="blog-description">I have rewatched Haikyu!! many times. Each time, Hinata’s passion and perseverance inspire me and give me the courage to face difficulties in real life.</div>
       <div class="blog-links">
         <a href="https://haikyu.jp/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -257,7 +257,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Kyoto Animation & Key 🌸</div>
-      <div class="blog-description">Masterpieces like K-On!, CLANNAD, AIR, Kanon, and Sound! Euphonium hold a special place in my heart. They never fail to deeply touch my soul.</div>
+      <div class="blog-description">I love Key’s warm, sorrowful, and beautiful stories, such as CLANNAD, AIR, and Kanon. Kyoto Animation’s K-On! and Sound! Euphonium also hold precious memories from my school years.</div>
       <div class="blog-links">
         <a href="https://www.kyotoanimation.co.jp/en/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -273,7 +273,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
     <div class="blog-card-content">
       <div class="blog-title">League of Legends 🎮</div>
-      <div class="blog-description">A favorite since my middle school days! I am absolutely fascinated by both its engaging gameplay and the rich, expansive lore of the Runeterra universe.</div>
+      <div class="blog-description">I enjoy the gameplay of League of Legends, where players cooperate, grow together, and work toward a shared goal. I am also fascinated by the stories of the Runeterra universe.</div>
       <div class="blog-links">
         <a href="https://www.leagueoflegends.com/" class="blog-link">
           <i class="fas fa-globe"></i> Link
@@ -289,7 +289,7 @@ My name is <span class="accent-text">Wen Chu</span> (you can call me Celeste). I
     </div>
     <div class="blog-card-content">
       <div class="blog-title">Creepy Nuts 🎵</div>
-      <div class="blog-description">R-Shitei and DJ Matsunaga's life attitude resonates with me, and their music gives me so much power. Attending their Asia Tour in Shanghai (Oct 2025) was an absolute blast and totally unforgettable!</div>
+      <div class="blog-description">I deeply admire R-Shitei and DJ Matsunaga’s attitude of staying true to themselves, which I can feel through their music. Attending their Asia Tour in Shanghai in October 2025 was an unforgettable experience for me!</div>
       <div class="blog-links">
         <a href="https://creepynuts.com/" class="blog-link">
           <i class="fas fa-globe"></i> Link

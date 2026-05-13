@@ -4,7 +4,8 @@ title: "EarthCARE"
 date: 2026-05-07
 tags: ["Lidar", "Satellite"]
 category: "Research"
-excerpt: "Basic knowledge of CMIP6"
+excerpt: "学习和使用EarthCARE卫星数据过程中的笔记"
+cover_image: images/EarthCARE/EarthCARE_pillars.jpg
 ---
 
 ## 1.Background

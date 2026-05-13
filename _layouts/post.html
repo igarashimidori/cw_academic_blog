@@ -77,5 +77,35 @@ author_profile: true
     <section class="post-content" itemprop="articleBody">
       {{ content }}
     </section>
+
+    {% if page.previous or page.next %}
+    <nav class="post-pagination" aria-label="Post navigation">
+      {% if page.previous %}
+      <a class="post-pagination__card post-pagination__card--prev" href="{{ page.previous.url | relative_url }}">
+        <span class="post-pagination__eyebrow">
+          <i class="fas fa-arrow-left"></i>
+          Previous Post
+        </span>
+        <span class="post-pagination__title">{{ page.previous.title }}</span>
+        <span class="post-pagination__date">{{ page.previous.date | date: "%B %d, %Y" }}</span>
+      </a>
+      {% else %}
+      <span class="post-pagination__card post-pagination__card--empty" aria-hidden="true"></span>
+      {% endif %}
+
+      {% if page.next %}
+      <a class="post-pagination__card post-pagination__card--next" href="{{ page.next.url | relative_url }}">
+        <span class="post-pagination__eyebrow">
+          Next Post
+          <i class="fas fa-arrow-right"></i>
+        </span>
+        <span class="post-pagination__title">{{ page.next.title }}</span>
+        <span class="post-pagination__date">{{ page.next.date | date: "%B %d, %Y" }}</span>
+      </a>
+      {% else %}
+      <span class="post-pagination__card post-pagination__card--empty" aria-hidden="true"></span>
+      {% endif %}
+    </nav>
+    {% endif %}
   </article>
 </div>
